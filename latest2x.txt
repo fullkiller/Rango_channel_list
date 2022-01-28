@@ -1,4 +1,4 @@
 version: 2022_01_28
-https://raw.githubusercontent.com/fullkiller/Rango_channel_list/main/fk_1x1.zip
+https://raw.githubusercontent.com/fullkiller/Rango_channel_list/main/E2_fk.tar.gz
 creator:fk
 type:userbouquet
