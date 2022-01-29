@@ -1,4 +1,4 @@
 version: 2022_01_30
-url:https://github.com/fullkiller/Rango_channel_list/blob/main/stalker.tar.gz
+url:https://github.com/fullkiller/Rango_channel_list/blob/main/stalker1.tar.gz
 creator:fk
 type:userbouquet
