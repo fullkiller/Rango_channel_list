@@ -1,4 +1,4 @@
-version: 2022_01_o1
+version: 2021-11-23
 https://raw.githubusercontent.com/fullkiller/Rango_channel_list/main/E2_k80.tar.gz
 creator:k80
 type:userbouquet
