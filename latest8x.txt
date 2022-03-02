@@ -1,4 +1,4 @@
 version: 2022-02-05
-https://raw.githubusercontent.com/fullkiller/Rango_channel_list/main/E2_seto_1x1.tar.gz
+url:https://raw.githubusercontent.com/fullkiller/Rango_channel_list/main/E2_seto_1x1.tar.gz
 creator:seto
 type:userbouquet
