@@ -1,0 +1,11 @@
+Package: enigma2-plugin-extensions-rangopolishchannelsupdater
+Version: 26.04.02
+Section: base
+Priority: optional
+Architecture: all
+Maintainer: fullkiller
+Description: Polskie listy kanałów mod by fullkiller™
+Source: https://github.com/fullkiller/Rango_channel_list
+Homepage: https://github.com/fullkiller/Rango_channel_list
+OE: enigma2-plugins
+License: Proprietary
