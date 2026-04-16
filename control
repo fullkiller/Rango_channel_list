@@ -1,0 +1,11 @@
+Package: enigma2-plugin-extensions-rangopolishchannelsupdater
+Version: 24.05.22
+Section: base
+Priority: optional
+Architecture: all
+Maintainer: fullkiller
+Description: Additional plugins for Enigma2
+Source: https://github.com/fullkiller/Rango_channel_list
+Homepage: https://github.com/fullkiller/Rango_channel_list
+OE: enigma2-plugins
+License: Proprietary
