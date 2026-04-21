@@ -1,4 +1,2 @@
-version: 2022-02-23
-url:https://raw.githubusercontent.com/fullkiller/Rango_channel_list/main/E2_bz.tar.gz
-creator:hswg
-type:userbouquet
+version:20240522
+url:https://raw.githubusercontent.com/fullkiller/Rango_channel_list/main/E2_k80.tar.gz
