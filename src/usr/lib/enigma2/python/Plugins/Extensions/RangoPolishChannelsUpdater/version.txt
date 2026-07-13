@@ -2,4 +2,4 @@
 Version = 20250522
 File = rango_channel_list_updater20250522.tar.gz
 Url = https://raw.githubusercontent.com/fullkiller/Rango_channel_list/main/
-MD5 = ecc9fc54c9ca3e4448f90c1f8a19bbb1
+MD5 = 00000000000000000000000000000000
